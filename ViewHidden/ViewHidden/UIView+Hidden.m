@@ -8,7 +8,6 @@
 
 #import <objc/runtime.h>
 #import "UIView+Hidden.h"
-#import "Masonry.h"
 #import "NSLayoutConstraint+Hidden.h"
 
 @implementation UIView (Hidden)
